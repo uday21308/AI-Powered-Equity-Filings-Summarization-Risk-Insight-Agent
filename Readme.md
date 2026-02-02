@@ -95,7 +95,7 @@ POST	/chunk  retrives the chunk with the chunk index we give
 Output Format
 
 All summaries follow this schema:
-'''
+```
 {
   "filing_id": "...",
   "highlights": [{ "bullet": "...", "section": "Results" }],
@@ -111,8 +111,7 @@ All summaries follow this schema:
     "coherence_proxy": true
   }
 }
-
-'''
+```
 
 
 ### 6. Design Principles
