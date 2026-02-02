@@ -1,0 +1,47 @@
+{
+  "filing_id": "cococola_synthetic.json",
+  "highlights": [
+    {
+      "bullet": "The Coca-Cola Company generates 59% of its net operating revenues from concentrate operations and 41% from finished product operations.",
+      "section": "Results"
+    },
+    {
+      "bullet": "In 2024, concentrate operations accounted for 59% of the Company's total net operating revenues, while finished product operations accounted for 41%.",
+      "section": "Liquidity"
+    }
+  ],
+  "risks": [
+    {
+      "bullet": "While it is not possible to define all categories of material information, examples of material information include: • a significant merger, joint venture, acquisition, or disposition involving the Company; • earnings or volume results; •...",
+      "grounding_phrase": "While it is not possible to define all categories of material information,",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "cococola_10K_2025",
+        "chunk_index": 0
+      }
+    },
+    {
+      "bullet": "Additionally, theCompany would likely be subject to significant additional liabilities for subsequent years, which could have a material adverse impact on the Company’s financial position,results of operations and cash flows.",
+      "grounding_phrase": "for subsequent years, which could have a material adverse impact",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "cococola_10K_2025",
+        "chunk_index": 1
+      }
+    },
+    {
+      "bullet": "The total futureimpairment charges we may be required to record could be material.",
+      "grounding_phrase": "total futureimpairment charges we may be required to record could",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "cococola_10K_2025",
+        "chunk_index": 5
+      }
+    }
+  ],
+  "tone": "neutral",
+  "metrics": {
+    "groundedness_proxy": 0.85,
+    "coherence_proxy": true
+  }
+}

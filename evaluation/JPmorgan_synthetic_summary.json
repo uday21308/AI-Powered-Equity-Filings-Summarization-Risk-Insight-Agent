@@ -1,0 +1,47 @@
+{
+  "filing_id": "JPmorgan_synthetic.json",
+  "highlights": [
+    {
+      "bullet": "The Firm's Chief Executive Officer, James Dimon, adopted a Rule 10b5-1 trading arrangement on November 7, 2024, to sell 1,000,000 shares of the Firm's stock between November 7, 2024, and August 1, 2025.",
+      "section": "Results"
+    },
+    {
+      "bullet": "The Firm holds $861 million in High-Quality Liquid Assets (HQLA) as of December 31, 2024, which is sufficient to meet its estimated total net cash outflows over a 30-day period of significant stress.",
+      "section": "Liquidity"
+    }
+  ],
+  "risks": [
+    {
+      "bullet": "• Strategic risks, including the damage to JPMorganChase’s competitive standing and results that could occur if management fails to develop and execute effective business strategies; risks associated with the significant and increasing competition that JPMorganChase...",
+      "grounding_phrase": "• Strategic risks, including the damage to JPMorganChase’s",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "JPmorgan_10K_2025",
+        "chunk_index": 1
+      }
+    },
+    {
+      "bullet": "Summary The principal risk factors that could adversely affect JPMorganChase’s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation include: • Regulatory risks, including the impact that applicable laws, rules and...",
+      "grounding_phrase": "Summary The principal risk factors that could adversely affect",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "JPmorgan_10K_2025",
+        "chunk_index": 0
+      }
+    },
+    {
+      "bullet": "Any failure by or inability of JPMorganChase to maintain the required level and composition of capital, or unfavorable changes in applicable capital requirements, could have an adverse impact on JPMorganChase’s shareholders, such as: • reducing...",
+      "grounding_phrase": "in applicable capital requirements, could have an adverse impact on",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "JPmorgan_10K_2025",
+        "chunk_index": 6
+      }
+    }
+  ],
+  "tone": "cautious",
+  "metrics": {
+    "groundedness_proxy": 0.92,
+    "coherence_proxy": true
+  }
+}

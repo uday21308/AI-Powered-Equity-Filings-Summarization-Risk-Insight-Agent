@@ -1,0 +1,47 @@
+{
+  "filing_id": "cococola_10K_2025",
+  "highlights": [
+    {
+      "bullet": "The Coca-Cola Company generates 59% of its total net operating revenues from concentrate operations and 41% from finished product operations.",
+      "section": "Results"
+    },
+    {
+      "bullet": "In 2024, concentrate operations accounted for 59% of the company's total net operating revenues, while finished product operations accounted for 41%.",
+      "section": "Liquidity"
+    }
+  ],
+  "risks": [
+    {
+      "bullet": "While it is not possible to define all categories of material information, examples of material information include: • a significant merger, joint venture, acquisition, or disposition involving the Company; • earnings or volume results; • an extraordinary item for accounting...",
+      "grounding_phrase": "define all categories of material information, examples of material information",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "cococola_10K_2025",
+        "chunk_index": 0
+      }
+    },
+    {
+      "bullet": "In that event, the Company would not receive a refund of the applicable portion orall of the $6.0 billion it paid in response to the IRS invoices issued in September 2024 and the related accrued interest receivable of $103 million...",
+      "grounding_phrase": "In that event, the Company would not receive a refund of the",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "cococola_10K_2025",
+        "chunk_index": 1
+      }
+    },
+    {
+      "bullet": "The primary beneficiary has both (1) the power to direct the activities of the VIE that most significantly impact the entity’s economicperformance, and (2) the obligation to absorb losses or the right to receive benefits from the VIE that could...",
+      "grounding_phrase": "VIE that most significantly impact the entity’s economicperformance, and (2)",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "cococola_10K_2025",
+        "chunk_index": 3
+      }
+    }
+  ],
+  "tone": "neutral",
+  "metrics": {
+    "groundedness_proxy": 0.85,
+    "coherence_proxy": true
+  }
+}

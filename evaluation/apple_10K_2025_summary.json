@@ -1,0 +1,47 @@
+{
+  "filing_id": "apple_10K_2025",
+  "highlights": [
+    {
+      "bullet": "The Company's total net sales increased by 6% to $416.2 billion in 2025 compared to $391.0 billion in 2024.",
+      "section": "Results"
+    },
+    {
+      "bullet": "As of September 27, 2025, the Company had $132.4 billion in cash, cash equivalents, and marketable securities.",
+      "section": "Liquidity"
+    }
+  ],
+  "risks": [
+    {
+      "bullet": "For example, the purchasing preferences and behaviors of consumers maychange, the financial condition of resellers could weaken, resellers could stop distributing the Company’s products, or uncertainty regarding demand for some orall of the Company’s products...",
+      "grounding_phrase": "and behaviors of consumers maychange, the financial condition of resellers",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "apple_10K_2025",
+        "chunk_index": 0
+      }
+    },
+    {
+      "bullet": "Such endeavors may involvesignificant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic,political, legal and regulatory challenges associated with operating in new businesses, regions or countries, inadequate return on...",
+      "grounding_phrase": "Such endeavors may involvesignificant risks and uncertainties, including",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "apple_10K_2025",
+        "chunk_index": 1
+      }
+    },
+    {
+      "bullet": "The Company’s net sales and gross margins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide globalproduct pricing pressures and product pricing actions that the Company may take...",
+      "grounding_phrase": "margins are subject to volatility and downward pressure due to",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "apple_10K_2025",
+        "chunk_index": 2
+      }
+    }
+  ],
+  "tone": "neutral",
+  "metrics": {
+    "groundedness_proxy": 0.9,
+    "coherence_proxy": true
+  }
+}

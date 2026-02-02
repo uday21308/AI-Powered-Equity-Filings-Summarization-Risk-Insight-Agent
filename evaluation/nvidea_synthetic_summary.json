@@ -1,0 +1,47 @@
+{
+  "filing_id": "nvidea_synthetic.json",
+  "highlights": [
+    {
+      "bullet": "Revenue for the period increased by 8% compared to the same period in the previous year.",
+      "section": "Results"
+    },
+    {
+      "bullet": "The company reported a net income of $85.6 million for the fiscal year ended December 31, 2022.",
+      "section": "Liquidity"
+    }
+  ],
+  "risks": [
+    {
+      "bullet": "Risk Factors– Risks Related to Regulatory, Legal, Our Stock and Other Matters” for a discussion of this potential impact.",
+      "grounding_phrase": "Risk Factors– Risks Related to Regulatory,",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "nvidea_10K_2025",
+        "chunk_index": 0
+      }
+    },
+    {
+      "bullet": "Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliancewith the policies or procedures...",
+      "grounding_phrase": "are subject to the risk that controls may become inadequate",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "nvidea_10K_2025",
+        "chunk_index": 2
+      }
+    },
+    {
+      "bullet": "it carryforwards of $31 million, before the impact of uncertain taxpositions, that will begin to expire in fiscal year 2025.",
+      "grounding_phrase": "$31 million, before the impact of uncertain taxpositions, that will",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "nvidea_10K_2025",
+        "chunk_index": 3
+      }
+    }
+  ],
+  "tone": "neutral",
+  "metrics": {
+    "groundedness_proxy": 0.86,
+    "coherence_proxy": true
+  }
+}

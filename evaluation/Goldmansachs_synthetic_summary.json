@@ -1,0 +1,47 @@
+{
+  "filing_id": "Goldmansachs_synthetic.json",
+  "highlights": [
+    {
+      "bullet": "Net earnings for 2024 were $14.28 billion, a 67% increase from $8.52 billion in 2023.",
+      "section": "Results"
+    },
+    {
+      "bullet": "Goldman Sachs generates revenues from intermediation and financing activities in its FICC and Equities segments, including client execution activities, market-making, and lending services.",
+      "section": "Liquidity"
+    }
+  ],
+  "risks": [
+    {
+      "bullet": "could result in unprecedented market volatility and illiquidity, heightened operational risks relating to the clearance and settlement of transactions, margin and other disputes with clients and counterparties, an adverse impact to investors including money market...",
+      "grounding_phrase": "could result in unprecedented market volatility",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "goldmansachs_10K_2025",
+        "chunk_index": 1
+      }
+    },
+    {
+      "bullet": "f these conflicts or other hostilities could result in, among other things, an increased risk of cyber attacks, an increased frequency and volume of failures to settle securities transactions, supply chain disruptions, higher inflation, lower...",
+      "grounding_phrase": "conflicts or other hostilities could result in, among other things,",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "goldmansachs_10K_2025",
+        "chunk_index": 4
+      }
+    },
+    {
+      "bullet": "General uncertainty about economic, political and market activities, and the scope, timing and impact of regulatory reform, as well as weak consumer, investor and CEO confidence resulting in large part from such uncertainty, has in...",
+      "grounding_phrase": "General uncertainty about economic, political and market",
+      "section": "Risk Factors",
+      "metadata": {
+        "filing_id": "goldmansachs_10K_2025",
+        "chunk_index": 0
+      }
+    }
+  ],
+  "tone": "cautious",
+  "metrics": {
+    "groundedness_proxy": 0.9,
+    "coherence_proxy": true
+  }
+}

@@ -1,0 +1,12 @@
+You are summarizing a section from a financial filing.
+
+Task:
+- Remove boilerplate, headers, and legal language
+- Produce ONE concise factual insight
+- No speculation
+- No marketing language
+
+Text:
+{section_text}
+
+Return ONE sentence only.
